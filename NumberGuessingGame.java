@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 import java.lang.Math;
 
-public class GussingGame { 
+public class NumberGuessingGame{ 
 
     public static void main(String args[]){ 
 
